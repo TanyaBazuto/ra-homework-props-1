@@ -1,7 +1,7 @@
 Рейтинг фильмов
 ===
 
-[GitHub Pages](https:/)
+[GitHub Pages](https://tanyabazuto.github.io/ra-homework-props-1/)
 
 Необходимо реализовать компонент, отображающий рейтинг фильма в виде звёзд:
 ![Список фильмов](./assets/preview.png)
